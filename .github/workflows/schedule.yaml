@@ -50,3 +50,4 @@ jobs:
                   #CRONTAB
                   CRONTAB: ${{ '0 5 0,16 * * *' }} #定时在每天0和下午4点整执行一次
                   SYNCURL: https://github.com/an0na/jd_scripts/raw/master/jd_joy_reward.js #此处填写你要执行的js
+                  SYNCURL: https://github.com/an0na/jd_scripts/raw/master/jd_bean_change.js
